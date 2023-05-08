@@ -1,1 +1,1 @@
-console.log("It is great to learn JS!")
+console.log("It is great to learn JS!");
